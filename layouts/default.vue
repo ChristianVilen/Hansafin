@@ -12,9 +12,6 @@ import AppHeader from "~/components/AppHeader";
 
 export default {
   components: { AppHeader, AppFooter },
-  data() {
-    return {};
-  }
 };
 </script>
 <style scoped lang="scss"></style>
@@ -23,7 +20,7 @@ export default {
 @font-face {
   font-family: "Qanaya";
   src: local("Qanaya"),
-  url(../assets/Qanaya-Regular-Demo.ttf), format("truetype");
+  url(../assets/fonts/Qanaya-Regular-Demo.ttf), format("truetype");
 }
 body {
   font-family: "Qanaya", Arial, Helvetica, sans-serif;

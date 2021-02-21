@@ -32,7 +32,7 @@
     <v-row>
       <v-col cols="12" class="d-flex justify-center">
         <img
-          src="../assets/option.svg"
+          src="../assets/svg/option.svg"
           alt="alt text"
           height="100px"
           width="auto"

@@ -3,7 +3,7 @@
     <v-row class="container">
       <v-col class="img-holder">
         <img
-          src="../assets/hiking.svg"
+          src="../assets/svg/hiking.svg"
           alt="Auditor at the park"
           height="500px"
           width="auto"

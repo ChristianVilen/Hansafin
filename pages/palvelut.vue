@@ -50,10 +50,10 @@ export default {
   height: 90vh;
   display: block;
   margin-top: 5vh;
-  background-image: url("../assets/florian-klauer-mk7D-4UCfmg-unsplash.jpg");
-  background-color: #cccccc; /* Used if the image is unavailable */
-  background-position: center; /* Center the image */
-  background-repeat: no-repeat; /* Do not repeat the image */
-  background-size: cover; /* Resize the background image to cover the entire container */
+  background-image: url("../assets/images/typewriter.jpg");
+  background-color: #cccccc;
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover;
 }
 </style>
