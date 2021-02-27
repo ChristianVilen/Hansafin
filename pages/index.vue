@@ -10,15 +10,12 @@
         />
       </v-col>
       <v-col>
-        <h1>Tilintarkastus</h1>
+        <h1>Hansafin Oy</h1>
         <article>
           <p>
-            Tilintarkastuksella on useita erilaisia tehtäviä.
-            Tilintarkastuksella varmistetaan niin tilinpäätöksen oikeellisuus,
-            kuin osapuolien tasavertainen kohtelu ja laillisuus. Lisäksi
-            tilintarkastuksen avulla luodaan luottamusta yhtiön sidosryhmille,
-            jotta he voivat tehdä oikeisiin tietoihin perustuvia päätöksiä
-            (kuten pankit ja sijoittajat).
+            on vantaalainen yritysjohdon ja taloushallinnon konsulttiyhtiö, jonka päätoimiala on
+            tilintarkastuspalvelut, joiden toteutus tapahtuu
+            osakkuusyhtiö MGI Tilintarkastus Oy:n kautta, kts www.mgiaudit.fi.
           </p>
         </article>
       </v-col>
