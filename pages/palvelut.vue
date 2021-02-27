@@ -4,7 +4,7 @@
       <v-col cols="12" class="d-flex justify-center title-holder">
         <h1>Palvelut</h1>
       </v-col>
-      <v-col cols="6" sm="6" xl="3" class="paragraph">
+      <v-col cols="8" sm="6" xl="3" class="paragraph">
         <article>
           Yhtiö tarjoaa pk-sektorinyrityksille, yhteisöille ja toimijoille taloushallinnon ja yritysjohdon
           asiantuntemusta 40 vuoden kokemuksella.

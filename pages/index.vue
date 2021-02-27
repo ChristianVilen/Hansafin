@@ -1,12 +1,11 @@
 <template>
   <v-app>
     <v-row class="container">
-      <v-col class="img-holder">
+      <v-col cols="12" sm="6" class="img-holder">
         <img
+          class="img"
           src="../assets/svg/hiking.svg"
           alt="Auditor at the park"
-          height="500px"
-          width="auto"
         />
       </v-col>
       <v-col>
@@ -43,10 +42,21 @@ export default {
 
 <style scoped lang="scss">
 h1 {
-  font-family: "Qanaya";
+  font-family: "Qanaya", serif;
 }
 
 .img-holder {
   padding-top: 30px;
+}
+
+.img {
+  height: 500px;
+  width: auto;
+}
+
+@media only screen and (max-width: 678px) {
+  .img-holder {
+    overflow-x: hidden;
+  }
 }
 </style>

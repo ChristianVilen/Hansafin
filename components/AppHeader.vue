@@ -6,15 +6,15 @@
       </v-col>
 
       <v-tabs class="nav-bar">
-        <v-tab><nuxt-link class="link" to="/">Etusivu</nuxt-link></v-tab>
-        <v-tab
-          ><nuxt-link class="link" to="/palvelut">Palvelut</nuxt-link></v-tab
-        >
-        <v-tab
-          ><nuxt-link class="link" to="/yhteystiedot"
-            >Yhteystiedot</nuxt-link
-          ></v-tab
-        >
+        <v-tab>
+          <nuxt-link class="link" to="/">Etusivu</nuxt-link>
+        </v-tab>
+        <v-tab>
+          <nuxt-link class="link" to="/palvelut">Palvelut</nuxt-link>
+        </v-tab>
+        <v-tab>
+          <nuxt-link class="link" to="/yhteystiedot">Yhteystiedot</nuxt-link>
+        </v-tab>
       </v-tabs>
     </v-app-bar>
   </div>
@@ -28,8 +28,9 @@ export default {
 
 <style lang="scss" scoped>
 * {
-  font-family: "Qanaya";
+  font-family: "Qanaya",serif;
 }
+
 .link {
   text-decoration: none;
   color: black;
