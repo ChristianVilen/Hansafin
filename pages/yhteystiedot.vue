@@ -3,16 +3,11 @@
     <v-row class="holder">
       <v-col class="d-flex justify-center">
         <article id="main-col">
-          <h1>Timo Vilen</h1>
+          <h1>Timo Vilèn</h1>
           <p>
-            Ut elementum nisi et vehicula posuere.<br />
-            Phasellus accumsan vel lectus sed mattis.<br />
-            Vestibulum id erat aliquam, ullamcorper lorem id, blandit nisi.<br />
-            Ut vitae mi et risus ultrices ornare. Nunc eu ex pharetra metus
-            congue<br />
-            rutrum a in ante. Vivamus sed lectus eu<br />
-            quam luctus semper. Aenean vitae dui elit. Vestibulum dictum<br />
-            efficitur felis eu ullamcorper.
+            Yli 40 vuotta taloushallintoa ja liikkeenjohtoa, kotimaassa sekä kansainvälisesti (erityisesti Venäjän
+            liiketoiminta kokemus). Ekonomi ja HT-tilintarkastustutkinto.
+            Toimitusjohtajan ja talousjohtajaan tehtäviä pienissä ja isommissakin (konserni) yrityksissä.
           </p>
         </article>
       </v-col>
@@ -20,10 +15,15 @@
         <aside id="sidebar">
           <div class="dark">
             <h3>Yhteystiedot</h3>
-            <p>Timo Vilen <br />Minttutie 21 A<br />Vantaa<br />01300</p>
+            <p>Timo Vilèn <br/>
+              Minttutie 21 A<br/>
+              Vantaa<br/>
+              01300</p>
             <p>
-              +358 400423282<br />timo.vilen(at)mgiaudit.fi<br />Y-tunnus:
-              1896646-0
+              +358 400423282<br/>
+              timo.vilen(at)mgiaudit.fi<br/>
+              timo.vilen(at)elisanet.fi <br/>
+              Y-tunnus: 1896646-0
             </p>
           </div>
         </aside>

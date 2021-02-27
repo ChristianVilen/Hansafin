@@ -6,15 +6,10 @@
       </v-col>
       <v-col cols="6" sm="6" xl="3" class="paragraph">
         <article>
-          Tilintarkastus on yhteisöjen kirjanpidon, tilipäätöksen ja hallinnon
-          lakisääteistä varmennusta. Tilintarkastuksen avulla varmistamme, että
-          asiakasorganisaatiomme johdon, omistajien ja muiden sidosryhmien saama
-          taloudellinen tieto on luotettavaa. Meillä BDO:lla tilintarkastuksen
-          kulmakivinä ovat laatu, riippumattomuus ja eettisyys. Toimintamme
-          perustuu pitkäaikaisiin ja luottamuksellisiin asiakassuhteisiin sekä
-          mutkattomaan henkilökohtaiseen kanssakäymiseen.
-          Asiakastyytyväisyysmittauksemme* osoittaa, että 95 % asiakkaistamme on
-          tyytyväisiä palveluihimme.
+          Yhtiö tarjoaa pk-sektorinyrityksille, yhteisöille ja toimijoille taloushallinnon ja yritysjohdon
+          asiantuntemusta 40 vuoden kokemuksella.
+          Tilintarkastuspalveluita (MGI Tilintarkastus Oy), veroneuvontaa, yrityksen aloittamiseen, talouden hallintaan
+          ja johtamiseen liittyvää palvelua sekä hallitus työskentelyä.
         </article>
       </v-col>
     </v-row>
@@ -43,17 +38,19 @@ export default {
 .title-holder {
   padding: 20px;
 }
+
 .paragraph {
   margin: 0 auto;
 }
+
 .holder {
   height: 90vh;
   display: block;
   margin-top: 5vh;
   background-image: url("../assets/images/typewriter.jpg");
   background-color: #cccccc;
-  background-position: center; 
-  background-repeat: no-repeat; 
+  background-position: center;
+  background-repeat: no-repeat;
   background-size: cover;
 }
 </style>
